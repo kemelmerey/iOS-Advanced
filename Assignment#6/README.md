@@ -24,14 +24,18 @@ This app displays:
     git sparse-checkout init --cone
     git sparse-checkout set Assignment#6/WeatherApp
     git checkout
-    ```
+```
 
 ### 2. Open in Xcode
 
 Open `WeatherApp.xcodeproj`
 
 
-
 ## 📸 Screenshots/Video
 
+
+
+
+https://github.com/user-attachments/assets/37f12d6e-31a6-4545-80ce-9f83b61628df
+![default](https://github.com/user-attachments/assets/4433c888-a09b-4854-b980-4f4aeca03d1f)
 
